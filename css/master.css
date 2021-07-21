@@ -59,7 +59,7 @@ body{
 }
 
 .container .image{
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(../images/image-header-mobile.jpg);
     height: 400px;
     width: 100%;
     background-size: cover;
